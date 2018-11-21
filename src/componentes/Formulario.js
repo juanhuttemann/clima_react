@@ -39,8 +39,8 @@ class Formulario extends Component {
                                 </select>
                                 <label htmlFor="pais">País: </label>
                             </div>
-                            < div className = "input-field col s12 m8 l4 offset-m2 buscador">
-                            <input type="submit" className="waves-effect waves-light btn btn-large green accent-3" value="buscar"/>
+                            <div className = "input-field col s12 m8 l4 offset-m2 buscador">
+                                <input type="submit" className="waves-effect waves-light btn btn-large green accent-3" value="buscar"/>
                             </div>
                         </form>
                     </div>
